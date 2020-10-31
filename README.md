@@ -1,4 +1,4 @@
-# distance-between-zipcode
+# distance-between-zipcode in KM
 
     function distanceBetweenzipcodes($zipcode, $zipcode2){
         try{
